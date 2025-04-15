@@ -1,9 +1,11 @@
 # Projeto2a: GitHub API e DOM Manipulation
 
 
-![Captura de tela 2025-04-15 011513](https://github.com/user-attachments/assets/db17c4e8-168f-4d0a-9307-3a31c58c2dc6)
-![Captura de tela 2025-04-15 011438](https://github.com/user-attachments/assets/2726e20b-8deb-4298-87bd-c2b21ac1da6d)
-![Captura de tela 2025-04-15 011532](https://github.com/user-attachments/assets/df92ad8d-4c85-4da6-953e-a2478e750b49)
+![image](https://github.com/user-attachments/assets/c988f56c-df41-4156-8855-46c49bd86225)
+![image](https://github.com/user-attachments/assets/01ce9a16-9f3e-48dd-96b1-2bad81aff122)
+![image](https://github.com/user-attachments/assets/03bb3646-5dfc-41ec-87ae-be740cdf4f5e)
+![image](https://github.com/user-attachments/assets/7ecf0e86-60dc-4ffd-a043-76de7ae40fef)
+
 
 
 #### Deploy
